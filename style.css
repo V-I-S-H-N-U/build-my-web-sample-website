@@ -1,12 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Tapestry&display=swap');
+
 *{ 
     margin: 0px;
     padding: 0px;
+    font-family: 'Tapestry', cursive;
 }
 #Mentors{
     background-color: #dbe5e6;
     padding: 30px 0px;
 }
-#Mentors h1{
+#Mentors h1,#participants h5{
     font-weight: 900;
     font-size: 32px;
     padding-bottom: 5px;
