@@ -46,7 +46,7 @@
     color: black;
 }
 a.username:link {color: #000000; text-decoration: none;}
-a.username:visited {color: #8fd819; text-decoration: none;}
+a.username:visited {color: #000000; text-decoration: none;}
 a.username:hover {text-decoration: underline;}
 .nobor{
     border: none;
